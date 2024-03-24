@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "picture": "https://iili.io/Jh5tk8u.png",
+        "title": "Yoga Mat with Carrying Strap",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_button_bg": "#0052FF",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Practice yoga comfortably anywhere with this high-quality yoga mat. Includes a convenient carrying strap.",
+        "price": "$240"
+    },
+    {
+        "id": "2",
+        "picture": "https://iili.io/Jh5tLcF.png",
+        "title": "Educational Toy Blocks Set",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_button_bg": "#FF444A",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Spark creativity and learning with this fun educational toy blocks set. Perfect for kids of all ages.",
+        "price": "$190"
+    },
+    {
+        "id": "3",
+        "picture": "https://iili.io/Jh5ZJxp.png",
+        "title": "Athletic Jogging Pants",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_button_bg": "#79C23F",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Stay active in style with these comfortable athletic jogging pants. Breathable fabric for maximum comfort.",
+        "price": "$290"
+    },
+    {
+        "id": "4",
+        "picture": "https://iili.io/Jh5DqNf.png",
+        "title": "Gourmet Chocolate Gift Box",
+        "category": "Food",
+        "category_bg": "#FFA07A",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Indulge in decadent chocolates with this gourmet chocolate gift box. Perfect for any chocolate lover.",
+        "price": "$290"
+    },
+    {
+        "id": "5",
+        "picture": "https://iili.io/Jh5ZJxp.png",
+        "title": "Organic Cotton T-shirt",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_button_bg": "#79C23F",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Stay cool and comfortable in this stylish organic cotton t-shirt. Available in various colors and sizes.",
+        "price": "$140"
+    },
+    {
+        "id": "6",
+        "picture": "https://iili.io/Jh5tLcF.png",
+        "title": "Interactive Solar System Poster",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_button_bg": "#FF444A",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Explore the wonders of the solar system with this interactive poster. Educational and entertaining for all ages.",
+        "price": "$390"
+    },
+    {
+        "id": "7",
+        "picture": "https://iili.io/Jh5DqNf.png",
+        "title": "Organic Green Tea Sampler",
+        "category": "Food",
+        "category_bg": "#FFA07A",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Experience the refreshing taste of organic green tea with this sampler pack. Includes a variety of flavors.",
+        "price": "$120"
+    },
+    {
+        "id": "8",
+        "picture": "https://iili.io/Jh5tk8u.png",
+        "title": "Fitness Tracker Watch",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_button_bg": "#0052FF",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Track your fitness goals with this sleek fitness tracker watch. Monitors heart rate, steps, and more.",
+        "price": "$490"
+    },
+    {
+        "id": "9",
+        "picture": "https://iili.io/Jh5tk8u.png",
+        "title": "Reusable Glass Water Bottle",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_button_bg": "#0052FF",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Stay hydrated and eco-friendly with this reusable glass water bottle. BPA-free and dishwasher safe.",
+        "price": "$190"
+    },
+    {
+        "id": "10",
+        "picture": "https://iili.io/Jh5DqNf.png",
+        "title": "Artisanal Cheese Selection",
+        "category": "Food",
+        "category_bg": "#FFA07A",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Delight your taste buds with this artisanal cheese selection. Perfect for wine and cheese nights.",
+        "price": "$340"
+    },
+    {
+        "id": "11",
+        "picture": "https://iili.io/Jh5tLcF.png",
+        "title": "Mathematics Puzzle Set",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_button_bg": "#FF444A",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Challenge your mind with this engaging mathematics puzzle set. Perfect for math enthusiasts.",
+        "price": "$540"
+    },
+    {
+        "id": "12",
+        "picture": "https://iili.io/Jh5ZJxp.png",
+        "title": "Cozy Knitted Scarf",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_button_bg": "#79C23F",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore doloribus commodi ipsa ipsam possimus? Provident minus harum non quam eos atque porro pariatur cum, facere reprehenderit labore. Eligendi voluptatem qui repellendus, at maxime vero repudiandae, est culpa eum, molestias quidem. Stay warm and stylish with this cozy knitted scarf. Perfect for chilly days.",
+        "price": "$190"
+    }
+]
