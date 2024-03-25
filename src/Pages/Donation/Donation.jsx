@@ -1,20 +1,40 @@
+import { useEffect, useState } from "react";
 import DonatedCard from "./DonatedCard";
 
 const Donation = () => {
-    const getStoredItems= JSON.parse(localStorage.getItem('donation'))
-    const check =getStoredItems?.length
-    
-    
+    const [donatedItems, setDonatedItems] = useState([])
+    const [isShow, setIsShow] = useState(false)
+    const [noFound, setNoFound] = useState(false)
+
+    useEffect(() => {
+        const getStoredItems = JSON.parse(localStorage.getItem('donation'))
+        if (getStoredItems) {
+            setDonatedItems(getStoredItems)
+        }
+        else {
+            setNoFound('Please Donate!!')
+        }
+    }, [])
+
+
     return (
         <div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-16 ">
-            {
-               getStoredItems?.map(card => <DonatedCard key={card.id} card={card}></DonatedCard>  )
+            { noFound? <p className="text-2xl font-medium flex justify-center items-center h-screen">{noFound}</p> :
+            <div>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-16 ">
+                {
+                    isShow ? donatedItems.map(card => <DonatedCard key={card.id} card={card}></DonatedCard>)
+                        :
+                        donatedItems.slice(0, 4).map(card => <DonatedCard key={card.id} card={card}></DonatedCard>)
+                }
+            </div>
+            <div className="flex justify-center">
+                <button onClick={() => setIsShow(!isShow)} className={isShow ? 'hidden' : 'btn bg-green-400 text-white'}>Show All</button>
+            </div>
+            </div>
             }
         </div>
-        <button className={`text-center flex mx-auto ${check>4 ? 'btn bg-green-400 text-white':'hidden'}`}>Show All</button>
-        </div>
-        
+
     );
 };
 
