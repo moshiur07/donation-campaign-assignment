@@ -8,7 +8,7 @@ const Card = ({ card }) => {
     return (
         <div>
             <Link to={`/card/${id}`}>
-            <div className={`rounded-lg bg-[${card_bg}]`}>
+            <div className={`rounded-lg ${card_bg}`}>
                 <figure><img src={picture} alt="Shoes" /></figure>
                 <div className="pl-5 py-4">
                     <p className={`font-medium bg-[${category_bg}] px-2 py-1 rounded-md w-max text-[${text_button_bg}]`}>{category}</p>

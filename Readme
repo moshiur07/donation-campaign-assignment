@@ -1,0 +1,10 @@
+The web app have 3 Signature Featured to share.
+
+1. You can see 12 option to donate with 4 category.You can see the details about the organization by clicking the card . and You can donate money on a fixed amount by a button .
+
+
+2. In the donation page you can see the organization you have donated with short info like price,category,name. By default you will see 4 card even though you donated more than 4 org. There will a Show all button to show the all organization.
+
+3. In this web app you can see statistics page where you can your donation ratio compare to 12 option to donated. 
+
+4. ALL the pages are in single web application. That's mean if you route all page it not going to reload with is kind of annoying.

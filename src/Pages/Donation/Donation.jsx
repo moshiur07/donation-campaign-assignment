@@ -29,7 +29,9 @@ const Donation = () => {
                 }
             </div>
             <div className="flex justify-center">
-                <button onClick={() => setIsShow(!isShow)} className={isShow ? 'hidden' : 'btn bg-green-400 text-white'}>Show All</button>
+                {
+                    donatedItems.length>4 && <button onClick={() => setIsShow(!isShow)} className={isShow ? 'hidden' : 'btn bg-green-400 text-white'}>Show All</button>
+                }
             </div>
             </div>
             }
